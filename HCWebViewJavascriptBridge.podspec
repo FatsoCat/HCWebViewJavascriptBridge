@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HCWebViewJavascriptBridge'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'HCWebViewJavascriptBridge.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/FatsoCat/HCWebViewJavascriptBridge'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Zac' => 'gong@reachauto.com' }
+  s.author           = { 'Zac' => '445878662@qq.com' }
   s.source           = { :git => 'https://github.com/FatsoCat/HCWebViewJavascriptBridge.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
