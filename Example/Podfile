@@ -1,0 +1,11 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HCWebViewJavascriptBridge_Example' do
+  pod 'HCWebViewJavascriptBridge', :path => '../'
+
+  target 'HCWebViewJavascriptBridge_Tests' do
+    inherit! :search_paths
+  end
+end

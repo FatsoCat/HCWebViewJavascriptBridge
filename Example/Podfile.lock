@@ -1,0 +1,16 @@
+PODS:
+  - HCWebViewJavascriptBridge (1.0.0)
+
+DEPENDENCIES:
+  - HCWebViewJavascriptBridge (from `../`)
+
+EXTERNAL SOURCES:
+  HCWebViewJavascriptBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HCWebViewJavascriptBridge: b2c64a1f9b429a26d1fe2365c13e56f965708331
+
+PODFILE CHECKSUM: daa485abda4029d906393059784a61b129f40640
+
+COCOAPODS: 1.10.1

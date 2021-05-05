@@ -1,0 +1,6 @@
+framework module HCWebViewJavascriptBridge {
+  umbrella header "HCWebViewJavascriptBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}
