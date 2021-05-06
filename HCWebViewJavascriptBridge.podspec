@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HCWebViewJavascriptBridge'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'HCWebViewJavascriptBridge.'
 
 # This description is used to generate tags and improve search results.
@@ -32,8 +32,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'HCWebViewJavascriptBridge/Classes/**/*'
   
-  s.static_framework = true
-
   # s.resource_bundles = {
   #   'HCWebViewJavascriptBridge' => ['HCWebViewJavascriptBridge/Assets/*.png']
   # }
